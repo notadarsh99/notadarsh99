@@ -90,19 +90,3 @@
 - 🧪 Experimental Projects
 
 ---
-
-## 🎮 Minecraft & Server Infrastructure
-
-Minecraft is one of the areas where I've done a lot of hands-on work.
-
-```text
-Minecraft
-├── Paper
-├── Skript
-├── Pterodactyl
-├── Server Hosting
-├── Server Administration
-├── Server Optimization
-├── Custom Gameplay
-├── Automation
-└── Discord Integration
