@@ -55,17 +55,7 @@
 **Also working with:**
 
 `Kali Linux` • `Pterodactyl` • `Paper` • `Skript` • `Hosting` • `Server Management` • `Networking` • `Deployment`
-
----
-
-### 🤖 AI & Automation
-
 `AI Assistants` • `Voice Recognition` • `Text-to-Speech` • `Automation` • `API Integration`
-
----
-
-### 🎮 Minecraft Development
-
 `Paper` • `Skript` • `Pterodactyl` • `Server Optimization` • `Server Hosting` • `Server Automation`
 
 ---
