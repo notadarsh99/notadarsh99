@@ -52,23 +52,6 @@
 
 </div>
 
-### 🐧 Linux & Infrastructure
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" />
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub" />
-
-</div>
-
 **Also working with:**
 
 `Kali Linux` • `Pterodactyl` • `Paper` • `Skript` • `Hosting` • `Server Management` • `Networking` • `Deployment`
