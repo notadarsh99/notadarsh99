@@ -1,3 +1,23 @@
+
+ 
+ <h1 align="center">Yo! I am Adarsh 👋</h1>
+
+<h3 align="center">
+💻 Developer | 🔐 Cybersecurity Enthusiast | 🎮 Minecraft & Server Developer
+</h3>
+
+<p align="center">
+  <b>Building, breaking, learning, and turning random ideas into projects 🚀</b>
+</p>
+
+---
+
+<div align="center">
+
+<img align="right" height="220" src="https://media1.tenor.com/m/ulUwa3QqhooAAAAC/kazuha-genshin-impact-kazuha-drinking.gif" />
+
+</div>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -17,24 +37,6 @@
 <img width="10" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" />
-
-</div>
- 
- <h1 align="center">Yo! I am Adarsh 👋</h1>
-
-<h3 align="center">
-💻 Developer | 🔐 Cybersecurity Enthusiast | 🎮 Minecraft & Server Developer
-</h3>
-
-<p align="center">
-  <b>Building, breaking, learning, and turning random ideas into projects 🚀</b>
-</p>
-
----
-
-<div align="center">
-
-<img align="right" height="220" src="https://media1.tenor.com/m/ulUwa3QqhooAAAAC/kazuha-genshin-impact-kazuha-drinking.gif" />
 
 </div>
 
